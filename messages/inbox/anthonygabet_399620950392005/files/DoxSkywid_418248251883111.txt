@@ -1,0 +1,80 @@
+ //réglement de comptes . //
+/////////////////////////////
+
+
+SON SKYPE => pcm-skywid
+//////////////////////////////
+
+Facebook : https://www.facebook.com/profile.php?id=100011306564855&fref=ts 
+********************************************
+chaine youtube :
+https://www.youtube.com/channel/UCUmBYWUedenpbPDhzDm2iVA/feed
+-----------------------------------------------------------------
+Google + : https://plus.google.com/106317324540438540052
+****************************************************************
+Son 1er compte psn : Skywid-1 
+---------------------------------------------------------------------------*
+159.8.125.28	FR	Clichy,
+Hauts-de-Seine,
+Île-de-France,
+France,
+Europe	92110	48.9002,
+2.3095	1000	SoftLayer Technologies	Midphase	sl-reverse.com	
+//////////////////////////////////////////////////////////////////////////
+
+infos vie privée 
+adresse : 40 Rue Martre
+92110 Clichy, France
+ 
+/ Date de naissance
+16 août 1993 /
+
+--------------------------------
+infos sur ip = 
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '159.8.125.0 - 159.8.125.63'
+
+% Abuse contact for '159.8.125.0 - 159.8.125.63' is 'abuse@softlayer.com'
+
+inetnum:        159.8.125.0 - 159.8.125.63
+netname:        NETBLK-SOFTLAYER-RIPE-CUST-JS16447-RIPE
+descr:          Hosting Services Inc. (dba Midphase)
+country:        US
+admin-c:        JS16447-RIPE
+tech-c:         JS16447-RIPE
+status:         LEGACY
+mnt-by:         MAINT-SOFTLAYER-RIPE
+created:        2015-02-23T21:34:43Z
+last-modified:  2015-02-23T21:34:43Z
+source:         RIPE
+
+person:         Jeremy Schreiner
+address:        517 W 100 N Suite 225
+address:        Providence, UT 84332 US
+phone:          +1.866.398.7638
+nic-hdl:        JS16447-RIPE
+remarks:        Please submit all abuse to abuse@uk2group.com - if sent to any other address, the reports may be ignored.
+abuse-mailbox:  abuse@uk2group.com
+mnt-by:         MAINT-SOFTLAYER-RIPE
+created:        2015-02-23T21:26:31Z
+last-modified:  2015-02-23T21:26:31Z
+source:         RIPE  Filtered
+
+% This query was served by the RIPE Database Query Service version 1.89.2 (WAGYU)
+
+
+
+///////////////////////////////////////////////////////
+Site utilisent ses donés (site qu'il fréquente)
+
+-http://play-cid-modding.com/members/pcm-skywid.6551/?antiddos_check=1
+-https://realitygaming.fr/members/skywid.580221/ 
+***********************************************************************
